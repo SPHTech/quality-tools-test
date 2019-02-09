@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
         //Add comments
 
         val test = "hello world"
-        val test2 = "hello world again"
-        val testSkipCi = 0
+
     }
 }
