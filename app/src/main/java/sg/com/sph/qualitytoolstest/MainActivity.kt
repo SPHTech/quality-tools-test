@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         val test = "hello world"
         val test2 = "hello world again"
+        val testSkipCi = 0
     }
 }
